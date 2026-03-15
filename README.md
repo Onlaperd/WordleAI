@@ -1,4 +1,4 @@
-#Wordle AI
+# Wordle AI
 
 
 Just decided to push to git the project I wrote somewhen in summer 2024
